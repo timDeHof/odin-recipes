@@ -14,11 +14,9 @@ div {
     font-weight: bold;
 }
 
-#recipe{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-}
+
 ul{
-    list-style-type: circle;
+    list-style-type: none;
 }
 body{
     background-color: turquoise;
